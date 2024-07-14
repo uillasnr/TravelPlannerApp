@@ -1,4 +1,4 @@
-/* const ptBR = {
+ const ptBR = {
     monthNames: [
       "Janeiro",
       "Fevereiro",
@@ -40,4 +40,4 @@
     today: "Hoje",
   }
   
-  export { ptBR } */
+  export { ptBR } 
